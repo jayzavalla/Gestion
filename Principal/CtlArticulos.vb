@@ -15,6 +15,7 @@
         End Get
     End Property
 
+    'cambios jayzavalla
     'totalizadores del comprobante
     Private _subtotal As Double = 0.0
     ReadOnly Property Subtotal As Double
